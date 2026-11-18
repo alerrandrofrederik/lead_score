@@ -1,0 +1,34 @@
+lead_id,produto,qtd_licencas,prazo,orcamento_aprovado,cargo,concorrente_citado
+L20261118-0004,Atlas Gestão,40,até o fim do mês,false,Controller,
+L20261118-0013,Atlas Gestão,150,,false,,
+L20261118-0031,Atlas Fiscal,,,true,,
+L20261118-0044,Atlas CRM,40,janeiro,false,,
+L20261118-0050,Atlas Estoque,,,true,Controller,
+L20261118-0082,Atlas Fiscal,60,,false,,
+L20261118-0100,Atlas CRM,150,até março,false,,
+L20261118-0101,Atlas Estoque,40,em 30 dias,true,CEO,
+L20261118-0104,Atlas Fiscal,,,false,Coordenadora Fiscal,
+L20261118-0119,Atlas Estoque,100,,false,Gerente de TI,DataPlan
+L20261118-0122,Atlas BI,,,true,Gerente Comercial,Nexus Gestão
+L20261118-0126,Atlas Gestão,,até março,false,Diretora de Operações,Nexus Gestão
+L20261118-0127,Atlas Estoque,,até março,false,Gerente Comercial,
+L20261118-0129,Atlas Estoque,,,true,Gerente de TI,
+L20261118-0133,Atlas CRM,50,,true,Gerente Comercial,
+L20261118-0170,Atlas Gestão,,,true,Head de Dados,
+L20261118-0196,Atlas Estoque,,,true,Diretora de Operações,
+L20261118-0200,Atlas Gestão,20,,false,Head de Dados,
+L20261118-0203,Atlas CRM,40,em 30 dias,true,,
+L20261118-0208,Atlas CRM,,,false,,
+L20261118-0215,Atlas Gestão,30,,true,,
+L20261118-0223,Atlas CRM,,,false,,
+L20261118-0228,Atlas BI,80,ainda este trimestre,false,,
+L20261118-0233,Atlas CRM,,,false,Diretor Financeiro,DataPlan
+L20261118-0243,Atlas Gestão,120,janeiro,true,,
+L20261118-0256,Atlas Fiscal,,,true,Diretora de Operações,
+L20261118-0258,Atlas Gestão,200,dezembro,true,Diretor Financeiro,OmniERP
+L20261118-0262,Atlas Estoque,15,,false,Diretora de Operações,GestorPro
+L20261118-0264,Atlas Fiscal,100,,true,,Nexus Gestão
+L20261118-0277,Atlas BI,60,até o fim do mês,false,,
+L20261118-0288,Atlas Gestão,,,false,Gerente de TI,
+L20261118-0290,Atlas CRM,,até março,true,Diretora de Operações,OmniERP
+L20261118-0292,Atlas CRM,,,true,,GestorPro

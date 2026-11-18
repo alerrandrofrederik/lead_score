@@ -1,0 +1,301 @@
+lead_id,nome,email,telefone,cnpj,canal,campanha,mensagem,recebido_em
+L20261118-0001,André Souza,andre.souza@yahoo.com.br,(71) 95975-4845,,google_ads,gads_bi_novembro,"Parabéns, você foi selecionado para receber um prêmio. Clique no link.",2026-11-18 07:01:22
+L20261118-0002,Thiago Pereira,thiago.pereira@primavera.com.br,(47) 94715-8933,75.243.106/0001-15,google_ads,gads_bi_novembro,Somos clientes e o Atlas Estoque está muito lento hoje.,2026-11-18 07:09:22
+L20261118-0003,André Rodrigues,andre.rodrigues@outlook.com,(61) 95958-2435,,google_ads,gads_bi_novembro,"Gostaria de anunciar no blog de vocês, qual o valor do post patrocinado?",2026-11-18 07:12:07
+L20261118-0004,Yasmin Martins,yasmin.martins@parana.com.br,(47) 94707-4187,48465648000160,indicacao,,"Sou Controller. Precisamos contratar o Atlas Gestão (40 usuários), com implantação até o fim do mês. Podemos agendar uma reunião esta semana?",2026-11-18 07:16:11
+L20261118-0005,Olívia Araújo,olivia.araujo@jequitiba.com.br,(61) 98775-5302,19.049.663/0001-29,site,organico,Vocês atendem empresas do segmento de saúde? Estou levantando fornecedores.,2026-11-18 07:18:59
+L20261118-0006,Bruno Oliveira,bruno.oliveira@yahoo.com.br,(71) 98439-5412,,site,organico,"Parabéns, você foi selecionado para receber um prêmio. Clique no link.",2026-11-18 07:21:02
+L20261118-0007,Leonardo Pereira,leonardo.pereira@delta.com.br,(47) 94869-8944,40.608.835/0001-43,google_ads,gads_bi_novembro,Estou comparando o Atlas Estoque com o DataPlan. Quais as principais vantagens?,2026-11-18 07:21:05
+L20261118-0008,Daniel Rocha,daniel.rocha@alvorada.com.br,(51) 91844-2818,71.179.808/0001-26,evento,expo_gestao_2026,Tem algum webinar sobre o Atlas Fiscal nos próximos dias?,2026-11-18 07:23:23
+L20261118-0009,Yasmin Souza,yasmin.souza@gmail.com,(21) 98352-5881,,site,organico,lorem ipsum dolor sit amet,2026-11-18 07:29:21
+L20261118-0010,Nicolas Almeida,nicolas.almeida@yahoo.com.br,(21) 99741-6249,,google_ads,gads_bi_novembro,Compro e vendo criptomoedas com a melhor taxa do mercado.,2026-11-18 07:31:55
+L20261118-0011,Letícia Cardoso,leticia.cardoso@cristal.com.br,(41) 99272-2119,51.820.377/0001-28,site,organico,Preciso da segunda via do boleto da assinatura do Atlas Fiscal.,2026-11-18 07:33:13
+L20261118-0012,André Carvalho,andre.carvalho@cordilheira.com.br,(47) 91149-8052,09749930000117,google_ads,gads_bi_novembro,Podem me mandar um vídeo de demonstração do Atlas BI?,2026-11-18 07:35:23
+L20261118-0013,Sabrina Lima,sabrina.lima@parana.com.br,(71) 99210-9362,48.016.245/0001-33,indicacao,,Gostaria de uma proposta comercial do Atlas Gestão com 150 licenças. Qual o valor?,2026-11-18 07:42:15
+L20261118-0014,Nicolas Santos,nicolas.santos@atlantico.com.br,(31) 93429-1902,36440892000199,linkedin,li_erp_q4,Queria entender as diferenças entre o Atlas Estoque e o Atlas Gestão.,2026-11-18 07:42:36
+L20261118-0015,Felipe Gomes,felipe.gomes@outlook.com,(61) 93692-8111,,linkedin,li_erp_q4,Oferecemos serviço de SEO e backlinks para o site de vocês.,2026-11-18 07:42:59
+L20261118-0016,Juliana Gomes,juliana.gomes@hotmail.com,(41) 91797-5635,,google_ads,gads_bi_novembro,"Olá, tudo bem? kkkkk",2026-11-18 07:47:04
+L20261118-0017,Thiago Ribeiro,thiago.ribeiro@outlook.com,(31) 94079-2749,,linkedin,li_erp_q4,"Estamos avaliando opções para o ano que vem, ainda sem data. O Atlas BI integra com planilhas?",2026-11-18 07:48:39
+L20261118-0018,Daniel Silva,daniel.silva@capital.com.br,(11) 93100-7003,15.969.664/0001-30,site,organico,Preciso da segunda via do boleto da assinatura do Atlas Fiscal.,2026-11-18 07:48:57
+L20261118-0019,Leonardo Oliveira,leonardo.oliveira@yahoo.com.br,(81) 93619-7204,,google_ads,gads_bi_novembro,Estamos começando a pesquisar sistemas de BI. Como funciona o Atlas BI?,2026-11-18 07:49:10
+L20261118-0020,Olívia Souza,olivia.souza@hotmail.com,(71) 95224-6575,,site,organico,"Olá, tudo bem? kkkkk",2026-11-18 07:49:56
+L20261118-0021,André Santos,andre.santos@ferraz.com.br,(47) 95979-9095,65726284000143,site,organico,A integração do Atlas Fiscal com o banco parou de funcionar.,2026-11-18 07:50:00
+L20261118-0022,Letícia Mendes,leticia.mendes@estrela.com.br,(41) 98474-6584,69.261.796/0001-32,evento,expo_gestao_2026,"Vi a demo de vocês no evento semana passada e achei bem interessante, mas só devemos olhar isso com calma no ano que vem.",2026-11-18 07:52:14
+L20261118-0023,Marcelo Oliveira,marcelo.oliveira@yahoo.com.br,(51) 94053-8112,,site,organico,"Olá, tudo bem? kkkkk",2026-11-18 08:02:32
+L20261118-0024,Bruno Lima,bruno.lima@litoral.com.br,(41) 95122-2311,76.226.838/0001-60,evento,expo_gestao_2026,Quais módulos o Atlas Estoque tem? Só queria ter uma ideia geral.,2026-11-18 08:04:59
+L20261118-0025,Mariana Martins,mariana.martins@yahoo.com.br,(21) 93401-7974,,site,organico,lorem ipsum dolor sit amet,2026-11-18 08:05:03
+L20261118-0026,Rodrigo Lima,rodrigo.lima@gmail.com,(11) 98173-8489,,site,organico,lorem ipsum dolor sit amet,2026-11-18 08:06:50
+L20261118-0027,Carla Santos,carla.santos@delta.com.br,(71) 97038-2854,14732104000103,site,organico,Quais módulos o Atlas BI tem? Só queria ter uma ideia geral.,2026-11-18 08:09:46
+L20261118-0028,Mariana Oliveira,mariana.oliveira@outlook.com,(71) 93427-8765,,google_ads,gads_bi_novembro,lorem ipsum dolor sit amet,2026-11-18 08:10:57
+L20261118-0029,Henrique Gomes,henrique.gomes@cordilheira.com.br,(51) 97388-4865, 79.868.727 / 0001-45 ,google_ads,gads_bi_novembro,"Não consigo acessar o Atlas BI, aparece erro de senha inválida.",2026-11-18 08:11:13
+L20261118-0030,Marcelo Lima,marcelo.lima@monte.com.br,(31) 96201-2111,33848421000126,site,organico,Podem me mandar um vídeo de demonstração do Atlas BI?,2026-11-18 08:11:20
+L20261118-0031,Letícia Lima,leticia.lima@monte.com.br,(31) 94014-4617,78499121000117,linkedin,li_erp_q4,Queremos fechar o Atlas Fiscal. Já temos verba aprovada para isso. Podemos agendar uma reunião esta semana?,2026-11-18 08:11:42
+L20261118-0032,Leonardo Santos,leonardo.santos@outlook.com,(81) 91666-2153,,site,organico,"Estamos avaliando opções para o ano que vem, ainda sem data. O Atlas CRM integra com planilhas?",2026-11-18 08:13:33
+L20261118-0033,Gustavo Almeida,gustavo.almeida@gmail.com,(11) 98786-3539,,evento,expo_gestao_2026,Vi o anúncio do Atlas Fiscal. Tem período de teste gratuito?,2026-11-18 08:15:10
+L20261118-0034,Letícia Ferreira,leticia.ferreira@hotmail.com,(11) 99618-3958,,google_ads,gads_bi_novembro,"Parabéns, você foi selecionado para receber um prêmio. Clique no link.",2026-11-18 08:15:49
+L20261118-0035,Marcelo Costa,marcelo.costa@parana.com.br,(81) 94728-7677,48.465.648/0001-60,site,organico,Como faço para cadastrar um novo usuário no Atlas Fiscal?,sem data
+L20261118-0036,Carla Almeida,carla.almeida@vale.com.br,(31) 91235-3822,19399091000108,site,organico,Vocês atendem empresas do segmento de indústria? Estou levantando fornecedores.,2026-11-18 08:29:39
+L20261118-0037,Gabriela Rocha,gabriela.rocha@litoral.com.br,(21) 91717-3126,39.421.047/0001-64,linkedin,li_erp_q4,Tem algum webinar sobre o Atlas Fiscal nos próximos dias?,2026-11-18 08:31:12
+L20261118-0038,Fernanda Pereira,fernanda.pereira@rio.com.br,(21) 96050-6152,10122691000150,evento,expo_gestao_2026,Tem algum webinar sobre o Atlas Fiscal nos próximos dias?,2026-11-18 08:31:56
+L20261118-0039,Patrícia Teixeira,patricia.teixeira@horizonte.com.br,(51) 91798-5749,55.690.927/0001-92,site,organico,O Atlas Fiscal não está gerando o relatório mensal desde ontem. Podem ajudar?,2026-11-18 08:32:12
+L20261118-0040,Wagner Ferreira,wagner.ferreira@ipe.com.br,(21) 99700-8786,08.412.411/0001-04,site,organico,"Esqueci meu login do Atlas Gestão, como recupero?",2026-11-18 08:41:52
+L20261118-0041,Vanessa Mendes,vanessa.mendes@estrela.com.br,(11) 91138-2113,24.593.752/0001-71,linkedin,li_erp_q4,Baixei o e-book de vocês e fiquei curioso sobre o Atlas BI.,2026-11-18 08:43:28
+L20261118-0042,Letícia Lima,leticia.lima@yahoo.com.br,(71) 93119-9408,,site,organico,"Parabéns, você foi selecionado para receber um prêmio. Clique no link.",2026-11-18 08:44:13
+L20261118-0043,Sabrina Ferreira,sabrina.ferreira@horizonte.com.br,(11) 95871-7586,13186999000157,site,organico,"Não consigo acessar o Atlas Estoque, aparece erro de senha inválida.",2026-11-18 08:45:54
+L20261118-0044,Felipe Ferreira,felipe.ferreira@atlantico.com.br,(31) 99824-4218,91.905.865/0001-52,google_ads,gads_bi_novembro,Temos interesse em adquirir o Atlas CRM (40 usuários) até janeiro. Podem me ligar?,2026-11-18 08:46:04
+L20261118-0045,Gustavo Ferreira,gustavo.ferreira@nova.com.br,(71) 93947-3148, 77.901.043 / 0001-72 ,google_ads,gads_bi_novembro,Gostaria de saber se o Atlas BI roda em nuvem. Ainda estamos no começo da pesquisa.,2026-11-18 08:46:17
+L20261118-0046,Olívia Ferreira,olivia.ferreira@cordilheira.com.br,(47) 92505-7550,72046537000101,indicacao,,"Estamos avaliando opções para o ano que vem, ainda sem data. O Atlas BI integra com planilhas?",2026-11-18 08:46:20
+L20261118-0047,Sabrina Cardoso,sabrina.cardoso@tropical.com.br,(11) 99470-3330,92546291000136,google_ads,gads_bi_novembro,Vocês atendem empresas do segmento de logística? Estou levantando fornecedores.,2026-11-18 08:46:32
+L20261118-0048,Gabriela Gomes,gabriela.gomes@gmail.com,(47) 92998-7458,,google_ads,gads_bi_novembro,"Empréstimo rápido sem consulta, fale no WhatsApp.",2026-11-18 08:53:20
+L20261118-0049,Daniel Barbosa,daniel.barbosa@outlook.com,(47) 98311-5731,,google_ads,gads_bi_novembro,Vi o anúncio do Atlas Estoque. Tem período de teste gratuito?,2026-11-18 08:57:08
+L20261118-0050,Thiago Nunes,thiago.nunes@serra.com.br,(31) 96971-6182,91.357.759/0001-84,site,organico,Sou Controller. Gostaria de uma proposta comercial do Atlas Estoque. O orçamento já está aprovado. Qual o valor?,2026-11-18 09:00:20
+L20261118-0051,Vanessa Ribeiro,vanessa.ribeiro@gmail.com,(11) 94010-8264,,site,organico,oi,2026-11-18 09:00:25
+L20261118-0052,Bruno Santos,bruno.santos@parana.com.br,(41) 99673-5995,03.067.383/0001-03,evento,expo_gestao_2026,Vi o anúncio do Atlas Estoque. Tem período de teste gratuito?,2026-11-18 09:01:22
+L20261118-0053,João Mendes,joao.mendes@yahoo.com.br,(11) 94095-3435,,linkedin,li_erp_q4,"Empréstimo rápido sem consulta, fale no WhatsApp.",2026-11-18 09:02:30
+L20261118-0054,Ana Oliveira,ana.oliveira@litoral.com.br,(11) 93359-8974,76226838000160,site,organico,Podem me mandar um vídeo de demonstração do Atlas CRM?,2026-11-18 09:05:08
+L20261118-0055,Juliana Barbosa,juliana.barbosa@gmail.com,(41) 98760-6592,,google_ads,gads_bi_novembro,Somos uma agência de marketing digital e queremos apresentar nosso portfólio.,2026-11-18 09:05:17
+L20261118-0056,Nicolas Gomes,nicolas.gomes@bandeirantes.com.br,(11) 95521-9376,95888794000188,site,organico,"Olá, gostaria de conhecer melhor o Atlas BI. Vocês têm algum material?",2026-11-18 09:06:02
+L20261118-0057,Sabrina Ribeiro,sabrina.ribeiro@yahoo.com.br,(21) 93527-6959,,google_ads,gads_bi_novembro,"Parabéns, você foi selecionado para receber um prêmio. Clique no link.",2026-11-18 09:07:54
+L20261118-0058,Leonardo Carvalho,leonardo.carvalho@hotmail.com,(41) 95627-2412,,site,organico,"Gostaria de anunciar no blog de vocês, qual o valor do post patrocinado?",2026-11-18 09:11:12
+L20261118-0059,Ana Barbosa,ana.barbosa@monte.com.br,(47) 97791-3865,71753556000105,site,organico,"Esqueci meu login do Atlas CRM, como recupero?",2026-11-18 09:12:11
+L20261118-0060,Patrícia Almeida,patricia.almeida@hotmail.com,(61) 96118-6395,,evento,expo_gestao_2026,Baixei o e-book de vocês e fiquei curioso sobre o Atlas Gestão.,2026-11-18 09:13:41
+L20261118-0061,Leonardo Barbosa,leonardo.barbosa@outlook.com,(47) 95321-9470,,google_ads,gads_bi_novembro,Compro e vendo criptomoedas com a melhor taxa do mercado.,2026-11-18 09:20:47
+L20261118-0062,Bruno Ferreira,bruno.ferreira@pioneira.com.br,(31) 91958-3394,31.665.876/0001-80,site,organico,Preciso da segunda via do boleto da assinatura do Atlas Estoque.,2026-11-18 09:22:10
+L20261118-0063,Leonardo Martins,leonardo.martins@hotmail.com,(51) 96644-1396,,google_ads,gads_bi_novembro,Tem algum webinar sobre o Atlas Gestão nos próximos dias?,2026-11-18 09:22:39
+L20261118-0064,Leonardo Pereira,Leonardo.pereira@delta.com.br,(47) 94869-8944,40.608.835/0001-43,google_ads,gads_bi_novembro,"Estou comparando o Atlas Estoque com o DataPlan. Quais as principais vantagens? (reenviando, não tive retorno)",2026-11-18 09:23:05
+L20261118-0065,Lucas Ribeiro,lucas.ribeiro@yahoo.com.br,(81) 98373-7303,,evento,expo_gestao_2026,Gostaria de saber se o Atlas CRM roda em nuvem. Ainda estamos no começo da pesquisa.,2026-11-18 09:27:38
+L20261118-0066,Felipe Gomes,felipe.gomes@yahoo.com.br,(31) 95266-2914,,google_ads,gads_bi_novembro,"Parabéns, você foi selecionado para receber um prêmio. Clique no link.",2026-11-18 09:31:55
+L20261118-0067,Sabrina Pereira,sabrina.pereira@litoral.com.br,(11) 95981-5267,80.002.578/0001-16,evento,expo_gestao_2026,Quais módulos o Atlas CRM tem? Só queria ter uma ideia geral.,2026-11-18 09:36:03
+L20261118-0068,Daniel Araújo,daniel.araujo@yahoo.com.br,(47) 93445-2459,,site,organico,"Parabéns, você foi selecionado para receber um prêmio. Clique no link.",2026-11-18 09:36:07
+L20261118-0069,Juliana Oliveira,juliana.oliveira@litoral.com.br,(61) 95694-8598,39421047000164,linkedin,li_erp_q4,Tem algum webinar sobre o Atlas Fiscal nos próximos dias?,2026-11-18 09:40:51
+L20261118-0070,Wagner Pereira,wagner.pereira@cordilheira.com.br,(47) 91471-2943,51.286.823/0001-66,site,organico,"Esqueci meu login do Atlas Estoque, como recupero?",2026-11-18 09:44:14
+L20261118-0071,Isabela Martins,isabela.martins@estrela.com.br,(47) 94916-2486,93.248.086/0001-57,google_ads,gads_bi_novembro,Gostaria de saber se o Atlas Gestão roda em nuvem. Ainda estamos no começo da pesquisa.,2026-11-18 09:45:29
+L20261118-0072,Daniel Silva,Daniel.silva@capital.com.br,(11) 93100-7003,15.969.664/0001-30,site,organico,"Preciso da segunda via do boleto da assinatura do Atlas Fiscal. (reenviando, não tive retorno)",2026-11-18 09:49:57
+L20261118-0073,Patrícia Martins,patricia.martins@hotmail.com,(31) 99677-7909,,site,organico,Vaga de emprego? Envio meu currículo em anexo.,2026-11-18 09:51:27
+L20261118-0074,Eduarda Souza,eduarda.souza@primavera.com.br,(31) 91284-8856,10.158.199/0001-34,site,organico,"Não consigo acessar o Atlas CRM, aparece erro de senha inválida.",2026-11-18 09:52:28
+L20261118-0075,Rafaela Rodrigues,rafaela.rodrigues@gmail.com,(41) 95872-4446,,site,organico,ok,2026-11-18 09:58:28
+L20261118-0076,Camila Souza,camila.souza@jequitiba.com.br,(47) 97834-3938,77701436000132,site,organico,Como faço para cadastrar um novo usuário no Atlas Fiscal?,2026-11-18 10:01:07
+L20261118-0077,Isabela Carvalho,isabela.carvalho@serra.com.br,(51) 97883-8272,90784473000110,linkedin,li_erp_q4,O Atlas Fiscal não está gerando o relatório mensal desde ontem. Podem ajudar?,2026-11-18 10:04:01
+L20261118-0078,Wagner Ferreira,wagner.ferreira@capital.com.br,(11) 99305-4648,06474687000183,site,organico,"Não tenho interesse em comprar nada agora, só preciso saber por que o Atlas Fiscal não gera o SPED desde ontem. Somos clientes há 3 anos.",2026-11-18 10:05:29
+L20261118-0079,Olívia Martins,olivia.martins@outlook.com,(47) 93293-7187,,site,organico,Somos uma agência de marketing digital e queremos apresentar nosso portfólio.,2026-11-18 10:06:20
+L20261118-0080,Rafaela Carvalho,rafaela.carvalho@mirante.com.br,(47) 94255-6905,32931839000130,site,organico,Tem algum webinar sobre o Atlas Fiscal nos próximos dias?,2026-11-18 10:07:15
+L20261118-0081,Gabriela Rocha,gabriela.rocha@aurora.com.br,(47) 91368-6114,38346578000177,indicacao,,"Estamos avaliando opções para o ano que vem, ainda sem data. O Atlas Estoque integra com planilhas?",2026-11-18 10:12:18
+L20261118-0082,Mariana Carvalho,mariana.carvalho@estrela.com.br,(41) 94847-4965,27.553.942/0001-56,google_ads,gads_bi_novembro,Temos interesse em adquirir o Atlas Fiscal (60 usuários). Podemos agendar uma reunião esta semana?,2026-11-18 10:14:12
+L20261118-0083,Nicolas Nunes,nicolas.nunes@sertao.com.br,(71) 98581-5573,00.499.154/0001-70,evento,expo_gestao_2026,Quais módulos o Atlas BI tem? Só queria ter uma ideia geral.,2026-11-18 10:15:20
+L20261118-0084,Fernanda Martins,fernanda.martins@aurora.com.br,(31) 98499-4181,65405153000164,site,organico,Estou comparando o Atlas BI com o Nexus Gestão. Quais as principais vantagens?,2026-11-18 10:21:08
+L20261118-0085,Rodrigo Lima,rodrigo.lima@cristal.com.br,(71) 91134-4814,65.627.298/0001-00,linkedin,li_erp_q4,Vi o anúncio do Atlas Gestão. Tem período de teste gratuito?,2026-11-18 10:21:26
+L20261118-0086,Fernanda Barbosa,fernanda.barbosa@outlook.com,(21) 92561-1962,,linkedin,li_erp_q4,Somos uma agência de marketing digital e queremos apresentar nosso portfólio.,2026-11-18 10:30:58
+L20261118-0087,Eduarda Souza,eduarda.souza@horizonte.com.br,(31) 95521-2835,55690927000192,google_ads,gads_bi_novembro,Quais módulos o Atlas Gestão tem? Só queria ter uma ideia geral.,2026-11-18 10:33:40
+L20261118-0088,Wagner Santos,wagner.santos@atlantico.com.br,(47) 95336-3915,32.719.374/0001-58,google_ads,gads_bi_novembro,"Olá, gostaria de conhecer melhor o Atlas Gestão. Vocês têm algum material?",2026-11-18 10:39:25
+L20261118-0089,Patrícia Pereira,patricia.pereira@yahoo.com.br,(31) 91471-5754,,site,organico,Somos uma agência de marketing digital e queremos apresentar nosso portfólio.,2026-11-18 10:39:28
+L20261118-0090,Mariana Moreira,mariana.moreira@outlook.com,(31) 92405-2841,,google_ads,gads_bi_novembro,Vocês atendem empresas do segmento de indústria? Estou levantando fornecedores.,2026-11-18 10:39:59
+L20261118-0091,Marcelo Martins,marcelo.martins@nova.com.br,(51) 97749-6755,82.400.842/0001-03,google_ads,gads_bi_novembro,Preciso da segunda via do boleto da assinatura do Atlas CRM.,2026-11-18 10:41:19
+L20261118-0092,Diego Barbosa,diego.barbosa@yahoo.com.br,(71) 92941-4677,,site,organico,Aumente suas vendas com nossa lista de 50 mil e-mails qualificados! Responda já.,2026-11-18 10:55:52
+L20261118-0093,Felipe Lima,felipe.lima@delta.com.br,(11) 95366-7429,14.732.104/0001-03,evento,expo_gestao_2026,Gostaria de saber se o Atlas Fiscal roda em nuvem. Ainda estamos no começo da pesquisa.,2026-11-18 10:57:53
+L20261118-0094,Gabriela Mendes,gabriela.mendes@gmail.com,(81) 92727-3736,,site,organico,"Olá, tudo bem? kkkkk",2026-11-18 10:58:23
+L20261118-0095,Juliana Gomes,juliana.gomes@pioneira.com.br,(21) 98847-1656,31.665.876/0001-80,site,organico,Como faço para cadastrar um novo usuário no Atlas Estoque?,2026-11-18 11:01:25
+L20261118-0096,Wagner Barbosa,wagner.barbosa@hotmail.com,(61) 91394-9649,,google_ads,gads_bi_novembro,Aumente suas vendas com nossa lista de 50 mil e-mails qualificados! Responda já.,2026-11-18 11:05:07
+L20261118-0097,Yasmin Carvalho,yasmin.carvalho@monte.com.br,(81) 94721-2467,64.016.582/0001-87,evento,expo_gestao_2026,Baixei o e-book de vocês e fiquei curioso sobre o Atlas Estoque.,2026-11-18 11:09:19
+L20261118-0098,André Souza,andre.souza@hotmail.com,(21) 96727-2533,,google_ads,gads_bi_novembro,"Empréstimo rápido sem consulta, fale no WhatsApp.",2026-11-18 11:11:53
+L20261118-0099,Yasmin Oliveira,yasmin.oliveira@ferraz.com.br,(51) 91901-4197,42102053000163,google_ads,gads_bi_novembro,"Esqueci meu login do Atlas BI, como recupero?",2026-11-18 11:12:01
+L20261118-0100,Mariana Ferreira,mariana.ferreira@capital.com.br,(31) 95695-5105,51.612.275/0001-17,linkedin,li_erp_q4,"Temos interesse em adquirir o Atlas CRM para 150 usuários, com implantação até março. Podem me ligar?",2026-11-18 11:13:48
+L20261118-0101,Gustavo Oliveira,gustavo.oliveira@delta.com.br,(51) 94624-4495,00623120000145,linkedin,li_erp_q4,"Sou CEO. Quero cotar o Atlas Estoque para 40 usuários, com implantação em 30 dias. Já temos verba aprovada para isso. Qual o valor?",2026-11-18 11:13:48
+L20261118-0102,Sabrina Santos,sabrina.santos@hotmail.com,(21) 97086-5995,,site,organico,Vaga de emprego? Envio meu currículo em anexo.,2026-11-18 11:18:31
+L20261118-0103,Juliana Oliveira,Juliana.oliveira@litoral.com.br,(61) 95694-8598,39421047000164,linkedin,li_erp_q4,"Tem algum webinar sobre o Atlas Fiscal nos próximos dias? (reenviando, não tive retorno)",2026-11-18 11:21:51
+L20261118-0104,Vanessa Carvalho,vanessa.carvalho@ferraz.com.br,(47) 99041-3996, 64.235.369 / 0001-66 ,google_ads,gads_bi_novembro,Sou Coordenadora Fiscal. Temos interesse em adquirir o Atlas Fiscal. Podemos agendar uma reunião esta semana?,2026-11-18 11:25:14
+L20261118-0105,Felipe Silva,felipe.silva@horizonte.com.br,(11) 93939-2460,70088600000139,google_ads,gads_bi_novembro,Vi o anúncio do Atlas Estoque. Tem período de teste gratuito?,2026-11-18 11:26:44
+L20261118-0106,Leonardo Rodrigues,leonardo.rodrigues@vale.com.br,(81) 91665-2347,46.990.139/0001-20,evento,expo_gestao_2026,O dashboard do Atlas BI não atualiza desde segunda-feira.,2026-11-18 11:29:38
+L20261118-0107,Yasmin Barbosa,yasmin.barbosa@outlook.com,(51) 95429-5375,,site,organico,Baixei o e-book de vocês e fiquei curioso sobre o Atlas CRM.,2026-11-18 11:41:37
+L20261118-0108,Letícia Nunes,leticia.nunes@serra.com.br,(11) 98685-2948, 34.714.345 / 0001-29 ,linkedin,li_erp_q4,"Não consigo acessar o Atlas Gestão, aparece erro de senha inválida.",2026-11-18 11:42:00
+L20261118-0109,Eduarda Teixeira,eduarda.teixeira@capital.com.br,(41) 97757-5373,15969664000130,site,organico,A integração do Atlas CRM com o banco parou de funcionar.,2026-11-18 11:43:38
+L20261118-0110,Sabrina Carvalho,sabrina.carvalho@yahoo.com.br,(31) 98066-4385,,site,organico,Compro e vendo criptomoedas com a melhor taxa do mercado.,2026-11-18 11:46:43
+L20261118-0111,João Silva,joao.silva@capital.com.br,(81) 99313-6427,15969664000130,google_ads,gads_bi_novembro,Como faço para cadastrar um novo usuário no Atlas CRM?,2026-11-18 11:48:36
+L20261118-0112,Paulo Moreira,paulo.moreira@yahoo.com.br,(31) 94454-6653,,linkedin,li_erp_q4,Vocês atendem empresas do segmento de construção? Estou levantando fornecedores.,2026-11-18 11:48:52
+L20261118-0113,Gabriela Ribeiro,gabriela.ribeiro@serra.com.br,(47) 92692-1571,90.784.473/0001-10,google_ads,gads_bi_novembro,Baixei o e-book de vocês e fiquei curioso sobre o Atlas Gestão.,2026-11-18 11:49:28
+L20261118-0114,Isabela Rocha,isabela.rocha@gmail.com,(47) 95129-3171,,google_ads,gads_bi_novembro,Podem me mandar um vídeo de demonstração do Atlas Fiscal?,2026-11-18 11:54:16
+L20261118-0115,Diego Rodrigues,diego.rodrigues@horizonte.com.br,(51) 99779-1306,55.690.927/0001-92,google_ads,gads_bi_novembro,Vocês atendem empresas do segmento de construção? Estou levantando fornecedores.,2026-11-18 12:04:09
+L20261118-0116,Felipe Lima,felipe.lima@mirante.com.br,(41) 95968-8776, 86.801.128 / 0001-70 ,site,organico,A integração do Atlas BI com o banco parou de funcionar.,2026-11-18 12:04:59
+L20261118-0117,Isabela Lima,isabela.lima@yahoo.com.br,(71) 98357-3440,,site,organico,"Empréstimo rápido sem consulta, fale no WhatsApp.",2026-11-18 12:05:51
+L20261118-0118,Karina Mendes,karina.mendes@cordilheira.com.br,(51) 96180-5932,79.868.727/0001-45,site,organico,Como faço para cadastrar um novo usuário no Atlas Gestão?,2026-11-18 12:06:34
+L20261118-0119,Carla Cardoso,carla.cardoso@ferraz.com.br,(81) 99451-4795,42102053000163,indicacao,,"Sou Gerente de TI. Precisamos contratar o Atlas Estoque para 100 usuários. Hoje usamos o DataPlan e queremos migrar. Me enviem a proposta, por favor.",2026-11-18 12:15:41
+L20261118-0120,Rafaela Almeida,rafaela.almeida@outlook.com,(61) 99278-2809,,site,organico,Aumente suas vendas com nossa lista de 50 mil e-mails qualificados! Responda já.,2026-11-18 12:16:40
+L20261118-0121,Rodrigo Souza,rodrigo.souza@serra.com.br,(11) 99422-2677,11.775.891/0001-74,evento,expo_gestao_2026,Podem me mandar um vídeo de demonstração do Atlas CRM?,2026-11-18 12:17:09
+L20261118-0122,Olívia Oliveira,olivia.oliveira@monte.com.br,(47) 97052-4834,71.753.556/0001-05,linkedin,li_erp_q4,Sou Gerente Comercial. Gostaria de uma proposta comercial do Atlas BI. O orçamento já está aprovado. Hoje usamos o Nexus Gestão e queremos migrar. Qual o valor?,2026-11-18 12:24:30
+L20261118-0123,Patrícia Gomes,patricia.gomes@yahoo.com.br,(21) 93627-5275,,site,organico,.,2026-11-18 12:26:38
+L20261118-0124,Yasmin Moreira,yasmin.moreira@hotmail.com,(31) 99248-1523,,site,organico,Compro e vendo criptomoedas com a melhor taxa do mercado.,2026-11-18 12:27:07
+L20261118-0125,Carla Araújo,carla.araujo@cordilheira.com.br,(41) 95896-7391,85149368000179,google_ads,gads_bi_novembro,Podem me mandar um vídeo de demonstração do Atlas Gestão?,2026-11-18 12:31:05
+L20261118-0126,Eduarda Rocha,eduarda.rocha@aurora.com.br,(47) 97165-4651,38346578000177,linkedin,li_erp_q4,"Sou Diretora de Operações. Temos interesse em adquirir o Atlas Gestão, com implantação até março. Hoje usamos o Nexus Gestão e queremos migrar. Podemos agendar uma reunião esta semana?",2026-11-18 12:31:50
+L20261118-0127,Henrique Araújo,henrique.araujo@jequitiba.com.br,(47) 99851-5633,18.188.355/0001-11,indicacao,,"Sou Gerente Comercial. Gostaria de uma proposta comercial do Atlas Estoque, com implantação até março. Aguardo contato do comercial.",2026-11-18 12:32:51
+L20261118-0128,Rafaela Nunes,rafaela.nunes@serra.com.br,(11) 99034-9740,90.784.473/0001-10,site,organico,Somos clientes e o Atlas CRM está muito lento hoje.,2026-11-18 12:34:27
+L20261118-0129,Rafaela Silva,rafaela.silva@planalto.com.br,(51) 98640-3536,06.484.229/0001-28,linkedin,li_erp_q4,"Sou Gerente de TI. Queremos fechar o Atlas Estoque. Já temos verba aprovada para isso. Me enviem a proposta, por favor.",2026-11-18 12:38:03
+L20261118-0130,Lucas Pereira,lucas.pereira@bandeirantes.com.br,(11) 91885-6966,23.374.989/0001-07,evento,expo_gestao_2026,Tem algum webinar sobre o Atlas Gestão nos próximos dias?,2026-11-18 12:39:51
+L20261118-0131,Leonardo Nunes,leonardo.nunes@yahoo.com.br,(21) 91169-8682,,google_ads,gads_bi_novembro,Somos uma agência de marketing digital e queremos apresentar nosso portfólio.,2026-11-18 12:44:25
+L20261118-0132,Juliana Silva,juliana.silva@horizonte.com.br,(31) 98433-4308,01704622000163,linkedin,li_erp_q4,Quais módulos o Atlas Estoque tem? Só queria ter uma ideia geral.,2026-11-18 12:44:41
+L20261118-0133,Sabrina Moreira,sabrina.moreira@uirapuru.com.br,(51) 93173-3913,75946474000120,indicacao,,Sou Gerente Comercial. Quero cotar o Atlas CRM (50 usuários). O orçamento já está aprovado. Qual o valor?,2026-11-18 12:45:07
+L20261118-0134,Yasmin Oliveira,yasmin.oliveira@gmail.com,(61) 98883-6074,,site,organico,Oferecemos serviço de SEO e backlinks para o site de vocês.,2026-11-18 12:50:24
+L20261118-0135,Carla Nunes,carla.nunes@hotmail.com,(47) 93783-9253,,site,organico,lorem ipsum dolor sit amet,2026-11-18 12:56:29
+L20261118-0136,Daniel Teixeira,daniel.teixeira@outlook.com,(61) 91482-5590,,indicacao,,Queria entender as diferenças entre o Atlas Fiscal e o Atlas Estoque.,2026-11-18 12:57:25
+L20261118-0137,João Silva,joao.silva@nova.com.br,(31) 99489-5610,77.901.043/0001-72,site,organico,"Esqueci meu login do Atlas Fiscal, como recupero?",2026-11-18 12:58:58
+L20261118-0138,Patrícia Pereira,patricia.pereira@hotmail.com,(47) 93906-8460,,google_ads,gads_bi_novembro,Estamos começando a pesquisar sistemas de área fiscal. Como funciona o Atlas Fiscal?,2026-11-18 12:59:02
+L20261118-0139,Isabela Oliveira,isabela.oliveira@horizonte.com.br,(61) 92830-2273,13.186.999/0001-57,site,organico,Somos clientes e o Atlas BI está muito lento hoje.,2026-11-18 13:02:12
+L20261118-0140,Gustavo Nunes,gustavo.nunes@sertao.com.br,(61) 94908-4992,29401965000178,site,organico,Podem me mandar um vídeo de demonstração do Atlas Fiscal?,2026-11-18 13:04:21
+L20261118-0141,Fernanda Oliveira,fernanda.oliveira@yahoo.com.br,(47) 93916-4933,,site,organico,lorem ipsum dolor sit amet,2026-11-18 13:05:01
+L20261118-0142,Camila Santos,camila.santos@hotmail.com,(81) 97051-2945,,site,organico,"Empréstimo rápido sem consulta, fale no WhatsApp.",2026-11-18 13:07:07
+L20261118-0143,Nicolas Gomes,nicolas.gomes@nova.com.br,(71) 99237-6563,82.400.842/0001-03,google_ads,gads_bi_novembro,"Não consigo acessar o Atlas CRM, aparece erro de senha inválida.",2026-11-18 13:12:31
+L20261118-0144,Wagner Almeida,wagner.almeida@outlook.com,(51) 95773-5382,,google_ads,gads_bi_novembro,Estamos começando a pesquisar sistemas de CRM. Como funciona o Atlas CRM?,2026-11-18 13:17:56
+L20261118-0145,Patrícia Ferreira,patricia.ferreira@vale.com.br,(11) 98695-1364, 83.667.525 / 0001-02 ,site,organico,A integração do Atlas Estoque com o banco parou de funcionar.,2026-11-18 13:20:36
+L20261118-0146,André Araújo,andre.araujo@cristal.com.br,(41) 99589-5034,70.168.733/0001-15,evento,expo_gestao_2026,Vi o anúncio do Atlas CRM. Tem período de teste gratuito?,2026-11-18 13:20:43
+L20261118-0147,Camila Lima,camila.lima@outlook.com,(31) 96367-5616,,google_ads,gads_bi_novembro,"Olá, tudo bem? kkkkk",2026-11-18 13:23:11
+L20261118-0148,Thiago Santos,thiago.santos@yahoo.com.br,(21) 91916-6478,,evento,expo_gestao_2026,Gostaria de saber se o Atlas BI roda em nuvem. Ainda estamos no começo da pesquisa.,2026-11-18 13:26:59
+L20261118-0149,Isabela Martins,isabela.martins@gmail.com,(51) 99399-4274,,site,organico,Compro e vendo criptomoedas com a melhor taxa do mercado.,2026-11-18 13:30:17
+L20261118-0150,Isabela Carvalho,isabela.carvalho@hotmail.com,(71) 92279-7050,,site,organico,"Gostaria de anunciar no blog de vocês, qual o valor do post patrocinado?",2026-11-18 13:37:35
+L20261118-0151,Camila Mendes,camila.mendes@monte.com.br,(31) 99301-1913,59.051.518/0001-05,site,organico,O dashboard do Atlas Estoque não atualiza desde segunda-feira.,2026-11-18 13:39:43
+L20261118-0152,Daniel Cardoso,daniel.cardoso@litoral.com.br,(41) 92995-2965,39.421.047/0001-64,google_ads,gads_bi_novembro,"Olá, gostaria de conhecer melhor o Atlas Fiscal. Vocês têm algum material?",2026-11-18 13:42:48
+L20261118-0153,Karina Rodrigues,karina.rodrigues@hotmail.com,(31) 95187-2468,,google_ads,gads_bi_novembro,Oferecemos serviço de SEO e backlinks para o site de vocês.,2026-11-18 13:43:10
+L20261118-0154,Juliana Costa,juliana.costa@hotmail.com,(51) 95910-5989,,site,organico,Baixei o e-book de vocês e fiquei curioso sobre o Atlas BI.,2026-11-18 13:45:58
+L20261118-0155,Juliana Barbosa,juliana.barbosa@pioneira.com.br,(71) 95728-3683,31665876000180,site,organico,"Não consigo acessar o Atlas BI, aparece erro de senha inválida.",2026-11-18 13:46:57
+L20261118-0156,Karina Araújo,karina.araujo@yahoo.com.br,(47) 93525-2975,,google_ads,gads_bi_novembro,Somos uma agência de marketing digital e queremos apresentar nosso portfólio.,2026-11-18 13:47:51
+L20261118-0157,Gustavo Ferreira,gustavo.ferreira@yahoo.com.br,(61) 98210-9020,,site,organico,lorem ipsum dolor sit amet,2026-11-18 13:52:10
+L20261118-0158,Bruno Santos,bruno.santos@serra.com.br,(21) 96143-5882,34714345000129,site,organico,O Atlas CRM não está gerando o relatório mensal desde ontem. Podem ajudar?,2026-11-18 13:57:23
+L20261118-0159,Leonardo Ribeiro,leonardo.ribeiro@alvorada.com.br,(81) 93663-9743,71.179.808/0001-26,site,organico,Preciso da segunda via do boleto da assinatura do Atlas Fiscal.,2026-11-18 13:59:31
+L20261118-0160,Henrique Mendes,henrique.mendes@hotmail.com,(71) 97364-1128,,site,organico,,2026-11-18 13:59:58
+L20261118-0161,Eduarda Rocha,eduarda.rocha@vale.com.br,(31) 98362-5844,83667525000102,google_ads,gads_bi_novembro,Podem me mandar um vídeo de demonstração do Atlas Fiscal?,2026-11-18 14:00:49
+L20261118-0162,Gustavo Martins,gustavo.martins@sertao.com.br,(71) 97626-8938,30365414000185,evento,expo_gestao_2026,"Esqueci meu login do Atlas Estoque, como recupero?",2026-11-18 14:06:07
+L20261118-0163,Vanessa Araújo,vanessa.araujo@litoral.com.br,(61) 97251-8130,39421047000164,google_ads,gads_bi_novembro,Quais módulos o Atlas Gestão tem? Só queria ter uma ideia geral.,2026-11-18 14:08:12
+L20261118-0164,Yasmin Ferreira,yasmin.ferreira@gmail.com,(81) 91266-2866,,site,organico,Compro e vendo criptomoedas com a melhor taxa do mercado.,2026-11-18 14:11:50
+L20261118-0165,Fernanda Nunes,fernanda.nunes@hotmail.com,(11) 91376-4747,,site,organico,"Gostaria de anunciar no blog de vocês, qual o valor do post patrocinado?",2026-11-18 14:12:16
+L20261118-0166,Isabela Ferreira,isabela.ferreira@gmail.com,(71) 98168-5828,,google_ads,gads_bi_novembro,"Olá, gostaria de conhecer melhor o Atlas CRM. Vocês têm algum material?",2026-11-18 14:12:36
+L20261118-0167,Mariana Gomes,mariana.gomes@horizonte.com.br,(41) 97623-3011,55.690.927/0001-92,site,organico,Como faço para cadastrar um novo usuário no Atlas Gestão?,2026-11-18 14:17:48
+L20261118-0168,João Gomes,joao.gomes@delta.com.br,(61) 91060-9444,14732104000103,google_ads,gads_bi_novembro,"Olá, gostaria de conhecer melhor o Atlas BI. Vocês têm algum material?",2026-11-18 14:27:25
+L20261118-0169,André Mendes,andre.mendes@gmail.com,(71) 94897-4553,,google_ads,gads_bi_novembro,"Olá, gostaria de conhecer melhor o Atlas Gestão. Vocês têm algum material?",2026-11-18 14:29:26
+L20261118-0170,Henrique Moreira,henrique.moreira@horizonte.com.br,(41) 97793-6410,55690927000192,indicacao,,Sou Head de Dados. Queremos fechar o Atlas Gestão. O orçamento já está aprovado. Qual o valor?,2026-11-18 14:30:13
+L20261118-0171,Vanessa Teixeira,vanessa.teixeira@yahoo.com.br,(11) 95489-2312,,site,organico,asd,2026-11-18 14:30:47
+L20261118-0172,Henrique Lima,henrique.lima@capital.com.br,(41) 91453-5023,06474687000183,google_ads,gads_bi_novembro,"A nota fiscal não está sendo emitida no Atlas CRM, dá erro 500.",2026-11-18 14:35:27
+L20261118-0173,Yasmin Rodrigues,yasmin.rodrigues@nova.com.br,(51) 94246-9740,48.740.164/0001-81,site,organico,Vi o anúncio do Atlas CRM. Tem período de teste gratuito?,2026-11-18 14:36:08
+L20261118-0174,Yasmin Rodrigues,yasmin.rodrigues@nova.com.br,(51) 94246-9740,48.740.164/0001-81,site,organico,Vi o anúncio do Atlas CRM. Tem período de teste gratuito?,2026-11-18 14:36:10
+L20261118-0175,Olívia Souza,olivia.souza@tropical.com.br,(41) 97759-4276,53.615.305/0001-74,indicacao,,Queria entender as diferenças entre o Atlas BI e o Atlas Fiscal.,2026-11-18 14:37:31
+L20261118-0176,Marcelo Lima,marcelo.lima@vale.com.br,(47) 97374-8986,46990139000120,site,organico,Somos clientes e o Atlas BI está muito lento hoje.,2026-11-18 14:42:35
+L20261118-0177,Eduarda Rodrigues,eduarda.rodrigues@cristal.com.br,(21) 96531-3781,54.549.480/0001-73,site,organico,"Esqueci meu login do Atlas Gestão, como recupero?",2026-11-18 14:42:55
+L20261118-0178,Olívia Teixeira,olivia.teixeira@vale.com.br,(31) 91486-2631,46990139000120,site,organico,Somos clientes e o Atlas CRM está muito lento hoje.,2026-11-18 14:43:01
+L20261118-0179,Ana Souza,ana.souza@cristal.com.br,(41) 99260-8777,51.820.377/0001-28,site,organico,"A nota fiscal não está sendo emitida no Atlas Fiscal, dá erro 500.",2026-11-18 14:43:06
+L20261118-0180,Bruno Martins,bruno.martins@gmail.com,(71) 93196-9230,,site,organico,Estou comparando o Atlas Estoque com o Nexus Gestão. Quais as principais vantagens?,2026-11-18 14:45:41
+L20261118-0181,Juliana Nunes,juliana.nunes@yahoo.com.br,(21) 99166-8324,,google_ads,gads_bi_novembro,URGENTE!!! Proposta imperdível: pacote de backlinks e SEO com preço promocional só hoje. Responda para receber o orçamento.,2026-11-18 14:47:41
+L20261118-0182,Gustavo Santos,gustavo.santos@gmail.com,(61) 95876-6143,,site,organico,"Parabéns, você foi selecionado para receber um prêmio. Clique no link.",2026-11-18 14:48:42
+L20261118-0183,Paulo Gomes,paulo.gomes@gmail.com,(81) 97348-4110,,google_ads,gads_bi_novembro,"Olá, gostaria de conhecer melhor o Atlas CRM. Vocês têm algum material?",2026-11-18 14:49:35
+L20261118-0184,Vanessa Lima,vanessa.lima@cordilheira.com.br,(47) 92578-2253,79868727000145,site,organico,Como faço para cadastrar um novo usuário no Atlas CRM?,2026-11-18 14:50:29
+L20261118-0185,Marcelo Martins,marcelo.martins@alvorada.com.br,(61) 97108-1199,71.179.808/0001-26,site,organico,Preciso da segunda via do boleto da assinatura do Atlas CRM.,2026-11-18 14:55:35
+L20261118-0186,Henrique Martins,henrique.martins@parana.com.br,(11) 94311-2517,51.154.479/0001-51,linkedin,li_erp_q4,Baixei o e-book de vocês e fiquei curioso sobre o Atlas Fiscal.,2026-11-18 14:57:32
+L20261118-0187,Daniel Martins,daniel.martins@monte.com.br,(41) 92161-1214, 33.918.785 / 0001-35 ,indicacao,,Baixei o e-book de vocês e fiquei curioso sobre o Atlas CRM.,2026-11-18 14:59:56
+L20261118-0188,André Carvalho,andre.carvalho@boa.com.br,(81) 95287-9887,58.506.431/0001-04,site,organico,"A nota fiscal não está sendo emitida no Atlas Fiscal, dá erro 500.",2026-11-18 15:01:48
+L20261118-0189,Ricardo Moreira,ricardo.moreira@hotmail.com,(31) 99115-9638,,site,organico,Vaga de emprego? Envio meu currículo em anexo.,2026-11-18 15:05:18
+L20261118-0190,Paulo Pereira,paulo.pereira@delta.com.br,(21) 98972-2873,93756798000187,evento,expo_gestao_2026,Quais módulos o Atlas Estoque tem? Só queria ter uma ideia geral.,2026-11-18 15:06:52
+L20261118-0191,Diego Moreira,diego.moreira@cordilheira.com.br,(31) 94361-1598,85149368000179,google_ads,gads_bi_novembro,"Estamos avaliando opções para o ano que vem, ainda sem data. O Atlas CRM integra com planilhas?",2026-11-18 15:07:00
+L20261118-0192,Carla Araújo,carla.araujo@parana.com.br,(21) 94468-9570,51154479000151,google_ads,gads_bi_novembro,"Estamos avaliando opções para o ano que vem, ainda sem data. O Atlas Gestão integra com planilhas?",2026-11-18 15:09:47
+L20261118-0193,Diego Costa,diego.costa@yahoo.com.br,(81) 91305-2970,,site,organico,Aumente suas vendas com nossa lista de 50 mil e-mails qualificados! Responda já.,2026-11-18 15:11:01
+L20261118-0194,Karina Ferreira,karina.ferreira@santa.com.br,(31) 91477-5233,79740344000197,google_ads,gads_bi_novembro,A integração do Atlas Gestão com o banco parou de funcionar.,2026-11-18 15:11:41
+L20261118-0195,Isabela Almeida,isabela.almeida@mirante.com.br,(21) 99196-2976,86801128000170,site,organico,"Não consigo acessar o Atlas CRM, aparece erro de senha inválida.",2026-11-18 15:16:31
+L20261118-0196,Bruno Carvalho,bruno.carvalho@monte.com.br,(31) 99740-4602,33.918.785/0001-35,indicacao,,Sou Diretora de Operações. Temos interesse em adquirir o Atlas Estoque. Budget aprovado pela diretoria. Aguardo contato do comercial.,2026-11-18 15:18:40
+L20261118-0197,Letícia Gomes,leticia.gomes@hotmail.com,(81) 98258-6772,,site,organico,Vi o anúncio do Atlas Gestão. Tem período de teste gratuito?,2026-11-18 15:20:54
+L20261118-0198,Gustavo Lima,gustavo.lima@monte.com.br,(31) 96507-2352,59051518000105,google_ads,gads_bi_novembro,Queria entender as diferenças entre o Atlas CRM e o Atlas Gestão.,2026-11-18 15:25:16
+L20261118-0199,Eduarda Rodrigues,eduarda.rodrigues@mirante.com.br,(71) 93204-2999,61200471000138,evento,expo_gestao_2026,Quais módulos o Atlas Fiscal tem? Só queria ter uma ideia geral.,2026-11-18 15:26:33
+L20261118-0200,Ana Moreira,ana.moreira@vale.com.br,(61) 99553-7892,46.990.139/0001-20,linkedin,li_erp_q4,Sou Head de Dados. Temos interesse em adquirir o Atlas Gestão (20 usuários). Qual o valor?,2026-11-18 15:27:14
+L20261118-0201,Wagner Barbosa,wagner.barbosa@estrela.com.br,(51) 96346-8965,93248086000157,site,organico,"A nota fiscal não está sendo emitida no Atlas Estoque, dá erro 500.",2026-11-18 15:28:29
+L20261118-0202,Thiago Barbosa,thiago.barbosa@sertao.com.br,(81) 96133-4278,98.679.807/0001-05,google_ads,gads_bi_novembro,Somos clientes e o Atlas Estoque está muito lento hoje.,2026-11-18 15:29:42
+L20261118-0203,Rodrigo Lima,  RODRIGO.LIMA@CRISTAL.COM.BR ,(71) 91134-4814,65.627.298/0001-00,linkedin,li_erp_q4,Conversei com a diretoria e aprovamos o orçamento. Queremos fechar o Atlas CRM para 40 usuários em 30 dias. Podem me ligar hoje?,2026-11-18 15:33:26
+L20261118-0204,Juliana Carvalho,juliana.carvalho@bandeirantes.com.br,(11) 96437-4424,85884247000170,indicacao,,Gostaria de saber se o Atlas Gestão roda em nuvem. Ainda estamos no começo da pesquisa.,2026-11-18 15:33:48
+L20261118-0205,Nicolas Silva,nicolas.silva@hotmail.com,(47) 95168-2111,,evento,expo_gestao_2026,"Olá, gostaria de conhecer melhor o Atlas CRM. Vocês têm algum material?",2026-11-18 15:35:20
+L20261118-0206,Patrícia Araújo,patricia.araujo@outlook.com,(51) 96638-1129,,site,organico,"Parabéns, você foi selecionado para receber um prêmio. Clique no link.",2026-11-18 15:39:58
+L20261118-0207,Fernanda Ribeiro,fernanda.ribeiro@parana.com.br,(51) 97165-8250,51154479000151,linkedin,li_erp_q4,O Atlas CRM não está gerando o relatório mensal desde ontem. Podem ajudar?,2026-11-18 15:42:55
+L20261118-0208,Olívia Araújo,olivia.araujo@atlantico.com.br,(61) 93166-2778,91.905.865/0001-52,indicacao,,"Temos interesse em adquirir o Atlas CRM. Me enviem a proposta, por favor.",2026-11-18 15:43:26
+L20261118-0209,Henrique Teixeira,henrique.teixeira@capital.com.br,(71) 94437-4693,51.612.275/0001-17,site,organico,Vi o anúncio do Atlas Gestão. Tem período de teste gratuito?,2026-11-18 15:43:27
+L20261118-0210,Paulo Carvalho,paulo.carvalho@gmail.com,(81) 96119-1864,,site,organico,Baixei o e-book de vocês e fiquei curioso sobre o Atlas Fiscal.,2026-11-18 15:49:00
+L20261118-0211,Yasmin Teixeira,yasmin.teixeira@planalto.com.br,(31) 99787-2759,96.886.805/0001-53,indicacao,,Tem algum webinar sobre o Atlas Estoque nos próximos dias?,2026-11-18 15:50:41
+L20261118-0212,Isabela Rodrigues,isabela.rodrigues@nova.com.br,(11) 97049-9992, 48.740.164 / 0001-81 ,linkedin,li_erp_q4,Estou comparando o Atlas Estoque com o DataPlan. Quais as principais vantagens?,2026-11-18 15:52:22
+L20261118-0213,Rodrigo Lima,rodrigo.lima@santa.com.br,(61) 93753-7060,79740344000197,evento,expo_gestao_2026,"Estamos avaliando opções para o ano que vem, ainda sem data. O Atlas Gestão integra com planilhas?",2026-11-18 16:02:08
+L20261118-0214,Rodrigo Lima,rodrigo.lima@santa.com.br,(61) 93753-7060,79740344000197,evento,expo_gestao_2026,"Estamos avaliando opções para o ano que vem, ainda sem data. O Atlas Gestão integra com planilhas?",2026-11-18 16:02:14
+L20261118-0215,João Carvalho,joao.carvalho@nova.com.br,(61) 92444-2049,85.621.850/0001-60,indicacao,,Queremos fechar o Atlas Gestão com 30 licenças. Já temos verba aprovada para isso. Podem me ligar?,2026-11-18 16:02:46
+L20261118-0216,João Martins,joao.martins@sertao.com.br,(71) 97025-6049,30.365.414/0001-85,site,organico,Como exporto os dados do Atlas BI para Excel?,2026-11-18 16:02:53
+L20261118-0217,Thiago Lima,thiago.lima@hotmail.com,(47) 95073-9570,,google_ads,gads_bi_novembro,"Empréstimo rápido sem consulta, fale no WhatsApp.",2026-11-18 16:03:35
+L20261118-0218,Henrique Martins,henrique.martins@bandeirantes.com.br,(71) 98556-3798,99.856.984/0001-74,evento,expo_gestao_2026,"Olá, gostaria de conhecer melhor o Atlas CRM. Vocês têm algum material?",2026-11-18 16:08:32
+L20261118-0219,Rafaela Gomes,rafaela.gomes@hotmail.com,(41) 94032-2281,,site,organico,"Empréstimo rápido sem consulta, fale no WhatsApp.",2026-11-18 16:16:55
+L20261118-0220,Diego Santos,diego.santos@santa.com.br,(47) 93790-1984,84.143.842/0001-92,site,organico,Gostaria de saber se o Atlas Estoque roda em nuvem. Ainda estamos no começo da pesquisa.,2026-11-18 16:17:03
+L20261118-0221,Vanessa Martins,vanessa.martins@pioneira.com.br,(47) 94066-9987,16.155.940/0001-90,evento,expo_gestao_2026,Quais módulos o Atlas Gestão tem? Só queria ter uma ideia geral.,2026-11-18 16:21:23
+L20261118-0222,Camila Cardoso,camila.cardoso@tropical.com.br,(47) 97996-6185,49.909.133/0001-74,google_ads,gads_bi_novembro,Estamos começando a pesquisar sistemas de estoque. Como funciona o Atlas Estoque?,2026-11-18 16:22:59
+L20261118-0223,Lucas Rocha,lucas.rocha@vale.com.br,(61) 91305-5644, 28.922.680 / 0001-10 ,linkedin,li_erp_q4,Precisamos contratar o Atlas CRM. Qual o valor?,17/13/2026 25:61
+L20261118-0224,Lucas Lima,lucas.lima@outlook.com,(21) 98460-8418,,evento,expo_gestao_2026,Quais módulos o Atlas Fiscal tem? Só queria ter uma ideia geral.,2026-11-18 16:31:12
+L20261118-0225,Juliana Moreira,juliana.moreira@estrela.com.br,(21) 99385-7462,48.467.737/0001-45,google_ads,gads_bi_novembro,"Não consigo acessar o Atlas Estoque, aparece erro de senha inválida.",2026-11-18 16:32:03
+L20261118-0226,Eduarda Costa,eduarda.costa@primavera.com.br,(61) 96527-7586,75.243.106/0001-15,site,organico,Estamos começando a pesquisar sistemas de gestão. Como funciona o Atlas Gestão?,2026-11-18 16:34:08
+L20261118-0227,Felipe Pereira,felipe.pereira@gmail.com,(47) 93028-2395,,google_ads,gads_bi_novembro,Compro e vendo criptomoedas com a melhor taxa do mercado.,2026-11-18 16:34:36
+L20261118-0228,Gabriela Araújo,gabriela.araujo@rio.com.br,(61) 91587-9996,10.122.691/0001-50,linkedin,li_erp_q4,Somos clientes do Atlas Fiscal e queremos contratar também o Atlas BI para 80 usuários ainda este trimestre. Podem enviar a proposta?,2026-11-18 16:39:40
+L20261118-0229,Fernanda Almeida,fernanda.almeida@capital.com.br,(47) 92297-7917,51612275000117,google_ads,gads_bi_novembro,Queria entender as diferenças entre o Atlas CRM e o Atlas Estoque.,2026-11-18 16:51:44
+L20261118-0230,Juliana Carvalho,juliana.carvalho@yahoo.com.br,(11) 98364-4975,,google_ads,gads_bi_novembro,"Parabéns, você foi selecionado para receber um prêmio. Clique no link.",2026-11-18 16:53:53
+L20261118-0231,Diego Pereira,diego.pereira@nova.com.br,(71) 94489-8656,42.626.551/0001-05,site,organico,O dashboard do Atlas BI não atualiza desde segunda-feira.,2026-11-18 16:54:49
+L20261118-0232,Vanessa Araújo,Vanessa.araujo@litoral.com.br,(61) 97251-8130,39421047000164,google_ads,gads_bi_novembro,"Quais módulos o Atlas Gestão tem? Só queria ter uma ideia geral. (reenviando, não tive retorno)",2026-11-18 16:58:12
+L20261118-0233,Lucas Lima,lucas.lima@horizonte.com.br,(21) 97347-6273,01704622000163,indicacao,,Sou Diretor Financeiro. Quero cotar o Atlas CRM. Hoje usamos o DataPlan e queremos migrar. Qual o valor?,2026-11-18 16:58:44
+L20261118-0234,Sabrina Santos,sabrina.santos@yahoo.com.br,(61) 98964-9410,,site,organico,lorem ipsum dolor sit amet,2026-11-18 16:59:43
+L20261118-0235,Wagner Mendes,wagner.mendes@yahoo.com.br,(11) 93131-1475,,evento,expo_gestao_2026,Vi o anúncio do Atlas Fiscal. Tem período de teste gratuito?,2026-11-18 17:03:06
+L20261118-0236,Paulo Rocha,paulo.rocha@mirante.com.br,(81) 97481-1643,65918033000160,google_ads,gads_bi_novembro,Vocês atendem empresas do segmento de alimentos? Estou levantando fornecedores.,2026-11-18 17:03:12
+L20261118-0237,Henrique Nunes,henrique.nunes@outlook.com,(51) 95961-7563,,linkedin,li_erp_q4,"Olá, gostaria de conhecer melhor o Atlas Gestão. Vocês têm algum material?",2026-11-18 17:05:23
+L20261118-0238,Gustavo Souza,gustavo.souza@hotmail.com,(11) 94530-5166,,evento,expo_gestao_2026,Podem me mandar um vídeo de demonstração do Atlas CRM?,2026-11-18 17:06:28
+L20261118-0239,Lucas Costa,lucas.costa@outlook.com,(51) 98849-8774,,site,organico,"Estamos avaliando opções para o ano que vem, ainda sem data. O Atlas Gestão integra com planilhas?",2026-11-18 17:08:30
+L20261118-0240,Sabrina Costa,sabrina.costa@gmail.com,(81) 96115-9541,,google_ads,gads_bi_novembro,lorem ipsum dolor sit amet,2026-11-18 17:10:01
+L20261118-0241,Olívia Santos,olivia.santos@cristal.com.br,(61) 91245-5421, 51.820.377 / 0001-28 ,indicacao,,Vi o anúncio do Atlas CRM. Tem período de teste gratuito?,2026-11-18 17:12:48
+L20261118-0242,Juliana Almeida,juliana.almeida@estrela.com.br,(11) 94263-8550,49058147000121,linkedin,li_erp_q4,Gostaria de saber se o Atlas Gestão roda em nuvem. Ainda estamos no começo da pesquisa.,2026-11-18 17:13:30
+L20261118-0243,Ricardo Gomes,ricardo.gomes@ferraz.com.br,(81) 98751-6952,21182339000126,linkedin,li_erp_q4,"Hi, we need 120 licenses of Atlas Gestão for our Brazilian subsidiary by January. Budget is already approved. Who can send us a quote?",2026-11-18 17:14:00
+L20261118-0244,Bruno Nunes,bruno.nunes@hotmail.com,(71) 97369-2032,,site,organico,Vi o anúncio do Atlas CRM. Tem período de teste gratuito?,2026-11-18 17:19:31
+L20261118-0245,Carla Silva,carla.silva@outlook.com,(81) 97241-5956,,site,organico,Vaga de emprego? Envio meu currículo em anexo.,2026-11-18 17:23:08
+L20261118-0246,Patrícia Rodrigues,patricia.rodrigues@alvorada.com.br,(61) 94093-2140,44064090000150,site,organico,Somos clientes e o Atlas CRM está muito lento hoje.,2026-11-18 17:23:11
+L20261118-0247,Gustavo Ribeiro,gustavo.ribeiro@hotmail.com,(81) 98244-6656,,site,organico,"Parabéns, você foi selecionado para receber um prêmio. Clique no link.",2026-11-18 17:25:49
+L20261118-0248,Olívia Santos,olivia.santos@gmail.com,(61) 96174-2040,,google_ads,gads_bi_novembro,"Empréstimo rápido sem consulta, fale no WhatsApp.",2026-11-18 17:26:56
+L20261118-0249,Lucas Mendes,lucas.mendes@bandeirantes.com.br,(81) 97802-2728,68071545000122,google_ads,gads_bi_novembro,Queria entender as diferenças entre o Atlas Estoque e o Atlas CRM.,2026-11-18 17:29:44
+L20261118-0250,Marcelo Mendes,marcelo.mendes@gmail.com,(11) 97470-2911,,linkedin,li_erp_q4,Oferecemos serviço de SEO e backlinks para o site de vocês.,2026-11-18 17:30:29
+L20261118-0251,João Carvalho,joao.carvalho@gmail.com,(31) 97906-9185,,linkedin,li_erp_q4,Quais módulos o Atlas Estoque tem? Só queria ter uma ideia geral.,2026-11-18 17:33:34
+L20261118-0252,Ricardo Barbosa,ricardo.barbosa@delta.com.br,(31) 96629-4602,14593327000129,google_ads,gads_bi_novembro,Vi o anúncio do Atlas Gestão. Tem período de teste gratuito?,2026-11-18 17:39:57
+L20261118-0253,Yasmin Silva,yasmin.silva@yahoo.com.br,(21) 96752-4259,,google_ads,gads_bi_novembro,"Estamos avaliando opções para o ano que vem, ainda sem data. O Atlas Fiscal integra com planilhas?",2026-11-18 17:41:34
+L20261118-0254,Mariana Souza,mariana.souza@gmail.com,(51) 99842-9315,,indicacao,,Quais módulos o Atlas Fiscal tem? Só queria ter uma ideia geral.,2026-11-18 17:42:13
+L20261118-0255,Carla Rocha,carla.rocha@gmail.com,(81) 97961-7766,,evento,expo_gestao_2026,Oferecemos serviço de SEO e backlinks para o site de vocês.,ontem à tarde
+L20261118-0256,Gustavo Barbosa,gustavo.barbosa@uirapuru.com.br,(51) 91276-7381,16571208000109,indicacao,,Sou Diretora de Operações. Gostaria de uma proposta comercial do Atlas Fiscal. Budget aprovado pela diretoria. Aguardo contato do comercial.,2026-11-18 17:46:39
+L20261118-0257,Thiago Gomes,thiago.gomes@gmail.com,(21) 93585-5089,,site,organico,Somos uma agência de marketing digital e queremos apresentar nosso portfólio.,2026-11-18 17:48:08
+L20261118-0258,Roberto Almeida,roberto.almeida@metalurgicabandeirantes.com.br,(11) 98765-4321,33.419.827/0001-93,linkedin,li_erp_q4,"Boa tarde, sou Diretor Financeiro da Metalúrgica Bandeirantes. Precisamos de 200 licenças do Atlas Gestão até dezembro, o orçamento já está aprovado. Hoje usamos o OmniERP e queremos migrar. Podemos agendar uma reunião?",2026-11-18 17:48:12
+L20261118-0259,Daniel Rocha,daniel.rocha@pioneira.com.br,(41) 96968-8577,31.665.876/0001-80,evento,expo_gestao_2026,A integração do Atlas Estoque com o banco parou de funcionar.,2026-11-18 17:48:19
+L20261118-0260,Sabrina Ribeiro,sabrina.ribeiro@gmail.com,(71) 95528-7995,,google_ads,gads_bi_novembro,Estamos começando a pesquisar sistemas de estoque. Como funciona o Atlas Estoque?,2026-11-18 17:49:49
+L20261118-0261,Karina Mendes,karina.mendes@cristal.com.br,(47) 93986-3873,51820377000128,site,organico,Somos clientes e o Atlas CRM está muito lento hoje.,2026-11-18 17:50:09
+L20261118-0262,Wagner Ribeiro,wagner.ribeiro@capital.com.br,(71) 91448-8896,06.474.687/0001-83,linkedin,li_erp_q4,Sou Diretora de Operações. Temos interesse em adquirir o Atlas Estoque (15 usuários). Hoje usamos o GestorPro e queremos migrar. Aguardo contato do comercial.,2026-11-18 17:50:14
+L20261118-0263,Vanessa Carvalho,vanessa.carvalho@boa.com.br,(11) 92483-4565,58506431000104,site,organico,Estou comparando o Atlas CRM com o DataPlan. Quais as principais vantagens?,2026-11-18 17:51:00
+L20261118-0264,Gustavo Costa,gustavo.costa@cordilheira.com.br,(71) 94122-6536,77.252.287/0001-71,indicacao,,Precisamos contratar o Atlas Fiscal com 100 licenças. Já temos verba aprovada para isso. Hoje usamos o Nexus Gestão e queremos migrar. Qual o valor?,2026-11-18 17:53:43
+L20261118-0265,Mariana Silva,mariana.silva@hotmail.com,(71) 93378-4961,,google_ads,gads_bi_novembro,Aumente suas vendas com nossa lista de 50 mil e-mails qualificados! Responda já.,2026-11-18 17:54:50
+L20261118-0266,Patrícia Araújo,patricia.araujo@hotmail.com,(61) 96554-9863,,linkedin,li_erp_q4,"Olá, tudo bem? kkkkk",2026-11-18 17:56:28
+L20261118-0267,Fernanda Mendes,fernanda.mendes@ferraz.com.br,(47) 96898-8412,21.182.339/0001-26,evento,expo_gestao_2026,Estou comparando o Atlas CRM com o Nexus Gestão. Quais as principais vantagens?,2026-11-18 18:02:18
+L20261118-0268,Carla Gomes,carla.gomes@parana.com.br,(31) 98223-5266,51.154.479/0001-51,google_ads,gads_bi_novembro,Como faço para cadastrar um novo usuário no Atlas BI?,2026-11-18 18:02:42
+L20261118-0269,Gabriela Silva,gabriela.silva@pioneira.com.br,(47) 97332-4787, 16.155.940 / 0001-90 ,google_ads,gads_bi_novembro,Tem algum webinar sobre o Atlas Gestão nos próximos dias?,2026-11-18 18:06:57
+L20261118-0270,Henrique Carvalho,henrique.carvalho@outlook.com,(71) 98147-1340,,google_ads,gads_bi_novembro,"Empréstimo rápido sem consulta, fale no WhatsApp.",2026-11-18 18:12:30
+L20261118-0271,Thiago Rocha,thiago.rocha@gmail.com,(51) 99846-3450,,evento,expo_gestao_2026,Tem algum webinar sobre o Atlas BI nos próximos dias?,2026-11-18 18:14:09
+L20261118-0272,Nicolas Nunes,nicolas.nunes@cordilheira.com.br,(41) 94027-6759,79.868.727/0001-45,evento,expo_gestao_2026,"Não consigo acessar o Atlas Gestão, aparece erro de senha inválida.",2026-11-18 18:17:37
+L20261118-0273,Gabriela Ferreira,gabriela.ferreira@hotmail.com,(21) 97387-6068,,indicacao,,"Olá, gostaria de conhecer melhor o Atlas Estoque. Vocês têm algum material?",2026-11-18 18:18:28
+L20261118-0274,Gustavo Pereira,gustavo.pereira@outlook.com,(71) 91022-2158,,evento,expo_gestao_2026,Vocês atendem empresas do segmento de alimentos? Estou levantando fornecedores.,2026-11-18 18:21:33
+L20261118-0275,Olívia Santos,Olivia.santos@cristal.com.br,(61) 91245-5421, 51.820.377 / 0001-28 ,indicacao,,"Vi o anúncio do Atlas CRM. Tem período de teste gratuito? (reenviando, não tive retorno)",2026-11-18 18:22:48
+L20261118-0276,Daniel Moreira,daniel.moreira@hotmail.com,(47) 97302-6067,,site,organico,teste,2026-11-18 18:23:57
+L20261118-0277,Leonardo Mendes,leonardo.mendes@capital.com.br,(81) 98925-5157, 06.474.687 / 0001-83 ,indicacao,,"Temos interesse em adquirir o Atlas BI (60 usuários), com implantação até o fim do mês. Me enviem a proposta, por favor.",2026-11-18 18:25:47
+L20261118-0278,Karina Silva,karina.silva@yahoo.com.br,(81) 92901-2160,,site,organico,Estamos começando a pesquisar sistemas de CRM. Como funciona o Atlas CRM?,2026-11-18 18:28:37
+L20261118-0279,João Lima,joao.lima@yahoo.com.br,(11) 95999-5644,,google_ads,gads_bi_novembro,Aumente suas vendas com nossa lista de 50 mil e-mails qualificados! Responda já.,2026-11-18 18:31:00
+L20261118-0280,Diego Ribeiro,diego.ribeiro@yahoo.com.br,(41) 93859-1616,,google_ads,gads_bi_novembro,Queria entender as diferenças entre o Atlas CRM e o Atlas BI.,2026-11-18 18:31:39
+L20261118-0281,Carla Rocha,carla.rocha@outlook.com,(61) 93863-8490,,site,organico,Baixei o e-book de vocês e fiquei curioso sobre o Atlas BI.,2026-11-18 18:33:29
+L20261118-0282,Carla Rocha,carla.rocha@outlook.com,(61) 93863-8490,,site,organico,Baixei o e-book de vocês e fiquei curioso sobre o Atlas BI.,2026-11-18 18:33:36
+L20261118-0283,Vanessa Carvalho,vanessa.carvalho@yahoo.com.br,(81) 95463-9987,,evento,expo_gestao_2026,"Olá, gostaria de conhecer melhor o Atlas BI. Vocês têm algum material?",2026-11-18 18:34:11
+L20261118-0284,Karina Ribeiro,karina.ribeiro@yahoo.com.br,(21) 99108-1668,,google_ads,gads_bi_novembro,Compro e vendo criptomoedas com a melhor taxa do mercado.,2026-11-18 18:35:31
+L20261118-0285,Paulo Barbosa,paulo.barbosa@estrela.com.br,(61) 91685-7232,53147379000123,evento,expo_gestao_2026,Gostaria de saber se o Atlas CRM roda em nuvem. Ainda estamos no começo da pesquisa.,2026-11-18 18:36:38
+L20261118-0286,Gabriela Araújo,gabriela.araujo@estrela.com.br,(71) 99563-2392,08.740.640/0001-40,site,organico,O Atlas CRM não está gerando o relatório mensal desde ontem. Podem ajudar?,2026-11-18 18:37:06
+L20261118-0287,Daniel Gomes,daniel.gomes@gmail.com,(21) 98074-7810,,site,organico,"Gostaria de anunciar no blog de vocês, qual o valor do post patrocinado?",2026-11-18 18:37:38
+L20261118-0288,Marcelo Souza,marcelo.souza@estrela.com.br,(41) 99810-8130,49058147000121,site,organico,Sou Gerente de TI. Queremos fechar o Atlas Gestão. Qual o valor?,2026-11-18 18:43:09
+L20261118-0289,Juliana Almeida,juliana.almeida@hotmail.com,(51) 98675-3148,,site,organico,Vaga de emprego? Envio meu currículo em anexo.,2026-11-18 18:45:24
+L20261118-0290,Daniel Silva,daniel.silva@ipe.com.br,(47) 94327-8259,04556238000159,google_ads,gads_bi_novembro,"Sou Diretora de Operações. Temos interesse em adquirir o Atlas CRM, com implantação até março. Budget aprovado pela diretoria. Hoje usamos o OmniERP e queremos migrar. Podemos agendar uma reunião esta semana?",2026-11-18 18:45:41
+L20261118-0291,João Rocha,joao.rocha@horizonte.com.br,(41) 94087-9612,13186999000157,site,organico,Como faço para cadastrar um novo usuário no Atlas Gestão?,2026-11-18 18:48:51
+L20261118-0292,Ana Nunes,ana.nunes@santa.com.br,(81) 92930-9515,84.143.842/0001-92,indicacao,,Gostaria de uma proposta comercial do Atlas CRM. O orçamento já está aprovado. Hoje usamos o GestorPro e queremos migrar. Podem me ligar?,2026-11-18 18:51:20
+L20261118-0293,Patrícia Ribeiro,patricia.ribeiro@outlook.com,(11) 98251-3385,,site,organico,"Gostaria de anunciar no blog de vocês, qual o valor do post patrocinado?",2026-11-18 18:51:33
+L20261118-0294,Camila Mendes,camila.mendes@capital.com.br,(81) 95788-8405,06474687000183,site,organico,Vocês atendem empresas do segmento de alimentos? Estou levantando fornecedores.,2026-11-18 18:51:56
+L20261118-0295,Carla Santos,carla.santos@parana.com.br,(71) 99261-1550,17.464.887/0001-71,evento,expo_gestao_2026,Estou comparando o Atlas Estoque com o DataPlan. Quais as principais vantagens?,2026-11-18 18:52:06
+L20261118-0296,Leonardo Nunes,leonardo.nunes@rio.com.br,(71) 98144-5225,10122691000150,site,organico,Somos clientes e o Atlas CRM está muito lento hoje.,2026-11-18 18:52:07
+L20261118-0297,Sabrina Costa,sabrina.costa@litoral.com.br,(11) 92936-1392,90453017000197,site,organico,Vocês atendem empresas do segmento de logística? Estou levantando fornecedores.,2026-11-18 18:54:13
+L20261118-0298,Thiago Oliveira,thiago.oliveira@gmail.com,(81) 96480-7389,,site,organico,Somos uma agência de marketing digital e queremos apresentar nosso portfólio.,2026-11-18 18:56:08
+L20261118-0299,Camila Almeida,camila.almeida@planalto.com.br,(41) 93354-5227, 17.751.401 / 0001-86 ,evento,expo_gestao_2026,Vocês atendem empresas do segmento de saúde? Estou levantando fornecedores.,2026-11-18 18:58:42
+L20261118-0300,Lucas Lima,lucas.lima@outlook.com ,(21) 98460-8418,,evento,expo_gestao_2026,"Quais módulos o Atlas Fiscal tem? Só queria ter uma ideia geral. (reenviando, não tive retorno)",2026-11-18 19:41:12
