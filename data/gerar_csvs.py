@@ -1,6 +1,8 @@
 """
 lead_score · gerador de dados sintéticos
-Gera os CSVs que serão enviados ao Volume /Volumes/lead_score/landing/raw/
+Gera os CSVs que serão enviados aos Volumes do Unity Catalog:
+  raw/      -> /Volumes/lead_score/bronze/raw/       (leads_*, empresas_*, oportunidades_*)
+  gabarito/ -> /Volumes/lead_score/bronze/gabarito/  (rótulos esperados, fora do raw)
 
 Uso:  python gerar_csvs.py [--data AAAA-MM-DD] [--saida pasta]
 A seed é fixa: a mesma data gera sempre os mesmos arquivos.
@@ -18,7 +20,7 @@ ap.add_argument("--saida", default="lead_score_dados")
 args = ap.parse_args()
 DIA = datetime.strptime(args.data, "%Y-%m-%d")
 OUT = args.saida
-for p in ["raw/leads", "raw/empresas", "raw/historico", "gabarito"]:
+for p in ["raw", "gabarito"]:
     os.makedirs(os.path.join(OUT, p), exist_ok=True)
 
 PRODUTOS = ["Atlas Gestão", "Atlas BI", "Atlas Fiscal", "Atlas CRM", "Atlas Estoque"]
@@ -349,11 +351,11 @@ def escreve(caminho, cols, linhas):
         w = csv.DictWriter(f, fieldnames=cols, quoting=csv.QUOTE_MINIMAL); w.writeheader()
         for l in linhas: w.writerow({c: l.get(c, "") for c in cols})
 
-escreve("raw/leads/leads_DEMO.csv", COLS_LEADS, leads)
-escreve(f"raw/empresas/empresas_{args.data}.csv",
+escreve("raw/leads_DEMO.csv", COLS_LEADS, leads)
+escreve(f"raw/empresas_{args.data}.csv",
         ["cnpj", "razao_social", "porte", "segmento", "num_funcionarios", "uf"],
         [dict(e, cnpj=(mascara(e["cnpj"]) if rnd.random() < 0.3 else e["cnpj"])) for e in empresas])
-escreve(f"raw/historico/oportunidades_{args.data}.csv",
+escreve(f"raw/oportunidades_{args.data}.csv",
         ["oportunidade_id", "cnpj", "produto", "status", "valor", "data"], oportunidades)
 escreve("gabarito/intencao.csv", ["lead_id", "email", "intencao_esperada", "pegadinha", "observacao"],
         [dict(lead_id=g["row"]["lead_id"], email=g["row"]["email"].strip().lower(), intencao_esperada=g["intencao_esperada"],

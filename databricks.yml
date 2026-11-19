@@ -1,0 +1,42 @@
+# Declarative Automation Bundle - lead_score
+# Docs: https://docs.databricks.com/dev-tools/bundles/
+
+bundle:
+  name: lead_score
+
+include:
+  - resources/*.yml
+
+variables:
+  catalog:
+    description: Catálogo Unity Catalog do projeto
+    default: lead_score
+  schema_bronze:
+    description: Schema da camada bronze
+    default: bronze
+  schema_silver:
+    description: Schema da camada silver
+    default: silver
+  schema_gold:
+    description: Schema da camada gold
+    default: gold
+  raw_volume_path:
+    description: Volume de landing dos CSVs brutos
+    default: /Volumes/lead_score/bronze/raw
+  warehouse_id:
+    description: SQL Warehouse usado por dashboards e tasks SQL
+    lookup:
+      warehouse: Serverless Starter Warehouse
+
+targets:
+  dev:
+    default: true
+    mode: development
+    workspace:
+      profile: pessoal
+
+  prod:
+    mode: production
+    workspace:
+      profile: pessoal
+      root_path: /Workspace/Users/${workspace.current_user.userName}/.bundle/${bundle.name}/${bundle.target}
