@@ -1,0 +1,14 @@
+# Pipeline declarativo (Lakeflow SDP) · bronze → silver → gold
+resources:
+  pipelines:
+    lead_score_pipeline:
+      name: lead_score_pipeline
+      catalog: ${var.catalog}
+      schema: ${var.schema_gold}
+      serverless: true
+      continuous: false
+      channel: CURRENT
+      root_path: ../src/pipeline
+      libraries:
+        - glob:
+            include: ../src/pipeline/**

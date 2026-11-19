@@ -40,3 +40,11 @@ targets:
     workspace:
       profile: pessoal
       root_path: /Workspace/Users/${workspace.current_user.userName}/.bundle/${bundle.name}/${bundle.target}
+
+# Só o código do bundle vai para o workspace (sem skills, venv e dados locais)
+sync:
+  exclude:
+    - .claude/**
+    - .venv/**
+    - data/**
+    - app/**
